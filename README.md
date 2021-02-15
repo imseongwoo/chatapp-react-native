@@ -1,3 +1,2 @@
 # chatapp-react-native
-chat app by reactnative
-test 1
+Practice react native from chat app!!
